@@ -3,8 +3,139 @@ layout: default
 title: "Home"
 ---
 
-{% if site.show_excerpts %}
-  {% include home.html %}
-{% else %}
-  {% include archive.html title="Posts" %}
-{% endif %}
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Solid Template</title>
+    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,600" rel="stylesheet">
+    <link rel="stylesheet" href="dist/css/style.css">
+	<script src="https://unpkg.com/animejs@3.0.1/lib/anime.min.js"></script>
+    <script src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"></script>
+</head>
+<body class="is-boxed has-animations">
+    <div class="body-wrap">
+        <header class="site-header">
+            <div class="container">
+                <div class="site-header-inner">
+                    <div class="brand header-brand">
+                        <h1 class="m-0">
+							<a href="#">
+								<img class="header-logo-image" src="dist/images/logo.jpg" alt="Logo" style="width: 20%;">
+                            </a>
+                        </h1>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <main>
+            <section class="hero">
+                <div class="container">
+                    <div class="hero-inner">
+						<div class="hero-copy">
+	                        <h1 class="hero-title mt-0">Welcome To BOUN EduTech </h1>
+	                        <p class="hero-paragraph">We are Bogazici University CET student's club. Together we learn and make events.
+                            </p>
+	                        <div class="hero-cta"><a class="button button-primary" href="#metaverse">See our Metaverse</a><a class="button" href="mailto:bounedutech@gmail.com">Get in touch</a></div>
+						</div>
+						<div class="hero-figure anime-element">
+							<svg class="placeholder" width="528" height="396" viewBox="0 0 528 396">
+								<rect width="528" height="396" style="fill:transparent;" />
+							</svg>
+							<div class="hero-figure-box hero-figure-box-01" data-rotation="45deg"></div>
+							<div class="hero-figure-box hero-figure-box-02" data-rotation="-45deg"></div>
+							<div class="hero-figure-box hero-figure-box-03" data-rotation="0deg"></div>
+							<div class="hero-figure-box hero-figure-box-04" data-rotation="-135deg"></div>
+							<div class="hero-figure-box hero-figure-box-05"></div>
+							<div class="hero-figure-box hero-figure-box-06"></div>
+							<div class="hero-figure-box hero-figure-box-07"></div>
+							<div class="hero-figure-box hero-figure-box-08" data-rotation="-22deg"></div>
+							<div class="hero-figure-box hero-figure-box-09" data-rotation="-52deg"></div>
+							<div class="hero-figure-box hero-figure-box-10" data-rotation="-50deg"></div>
+						</div>
+                    </div>
+                </div>
+            </section>
+
+            <a name="metaverse"></a>
+            <section style="text-align: center; margin-top: 5%; height: 100%;width:100%;" >
+                <h1>BOUN EduTech Metaverse</h1>
+                <iframe frameborder="0" src="https://itch.io/embed-upload/6441472?color=216cea" allowfullscreen="" width="960" height="670"><a href="https://alierenkayhan.itch.io/boun-edutech-metaverse">Play Boun EduTech Metaverse on itch.io</a></iframe>
+            </section>
+ 
+            <section style="text-align: center; margin-top: 5%;">
+                {% if site.show_excerpts %}
+                {% include home.html %}
+              {% else %}
+                {% include archive.html title="Posts" %}
+              {% endif %}
+            </section>
+         
+ 
+			<section class="cta section" style="margin-top: 5%;">
+				<div class="container">
+					<div class="cta-inner section-inner">
+						<h3 class="section-title mt-0">Still not convinced?</h3>
+						<div class="cta-cta">
+							<a class="button button-primary button-wide-mobile" href="mailto:bounedutech@gmail.com">Get in touch</a>
+						</div>
+					</div>
+				</div>
+			</section>
+        </main>
+
+        <footer class="site-footer">
+            <div class="container">
+                <div class="site-footer-inner">
+                    <div class="brand footer-brand">
+						<a href="#">
+							<img class="header-logo-image" src="dist/images/logo.jpg" alt="Logo" style="width: 10%;">
+						</a>
+                    </div>
+                     
+                    <ul class="footer-social-links list-reset">
+                        <li>
+                            <a href="https://www.linkedin.com/company/edutechboun/">
+                                Linkedin
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.instagram.com/bounedutech/?hl=tr">
+                                Instagram
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://medium.com/@bounedutech">
+                                Medium
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.youtube.com/channel/UC_HuB4Qlta9VCZliRfT2VaQ">
+                                Youtube
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://bounedutech.itch.io/">
+                                itch.io
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/Boun-EduTech">
+                                Github
+                            </a>
+                        </li>
+                    </ul>
+                    <div class="footer-copyright">&copy; 2020 BOUN EduTech, all rights reserved | Template author is Solid </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <script src="dist/js/main.min.js"></script>
+</body>
+</html>
+
+ 
