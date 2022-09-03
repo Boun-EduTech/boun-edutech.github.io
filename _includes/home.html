@@ -1,12 +1,14 @@
 {%- assign posts = paginator.posts | default: site.posts -%}
 {% for post in posts %}
   <article>
- <div style="background-color:red;width:50%;display:flex;margin-bottom:5%">
+<div class="card">
+  <div class="container">
     {% include meta.html post=post preview=true %}
     {{ post.excerpt }}
     <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
     </div>
-  </article>
+ </div>
+ </article>
 {% endfor %}
 
 {% if paginator.total_pages > 1 %}
@@ -16,3 +18,19 @@
     {% if paginator.next_page %}<a href="{{ paginator.next_page_path | relative_url }}">older posts »</a>{% else %}<span></span>{% endif %}
   </footer>
 {% endif %}
+
+<style>
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 40%;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+  padding: 2px 16px;
+}
+</style>
