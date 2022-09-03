@@ -1,5 +1,5 @@
 ---
-title:  "Neden Bilgisayar Eğitimi ve Eğitim Teknolojileri bölümünde okumalısınız?"
+title:  "How To Create An University Networking System In Cisco Packet Tracer"
 mathjax: true
 layout: post
 ---
