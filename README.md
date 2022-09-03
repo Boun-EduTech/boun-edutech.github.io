@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/Boun-EduTech/boun-edutech.github.io/blob/main/images/Github%20banner.png?raw=true" alt="Alierenkayhan" width ="100%" height = "auto" /></p>
+<img align="left" src="https://github.com/Boun-EduTech/boun-edutech.github.io/blob/master/images/Github%20banner.png?raw=true" alt="Alierenkayhan" width ="100%" height = "auto" /></p>
     
 # BOUN EduTech website
 
@@ -141,9 +141,9 @@ See the [open issues](https://github.com/Boun-EduTech/boun-edutech.github.io/iss
   1-Screenshots of Metaverse
   <table> 
     <tr>
-        <td>  <img align="left" src="https://github.com/Boun-EduTech/boun-edutech.github.io/blob/main/images/images%20metaverse/bounedutechss1.jpg?raw=true" alt="bounedutechmetaverse" width ="100%" height = "auto" /></p></td>
-        <td>  <img align="left" src="https://github.com/Boun-EduTech/boun-edutech.github.io/blob/main/images/images%20metaverse/bounedutechss2.jpg?raw=true" alt="bounedutechmetaverse" width ="100%" height = "auto" /></p></td>
-        <td>  <img align="left" src="https://github.com/Boun-EduTech/boun-edutech.github.io/blob/main/images/images%20metaverse/bounedutechss3.jpg?raw=true" alt="bounedutechmetaverse" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="https://github.com/Boun-EduTech/boun-edutech.github.io/blob/master/images/images%20metaverse/bounedutechss1.jpg?raw=true" alt="bounedutechmetaverse" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="https://github.com/Boun-EduTech/boun-edutech.github.io/blob/master/images/images%20metaverse/bounedutechss2.jpg?raw=true" alt="bounedutechmetaverse" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="https://github.com/Boun-EduTech/boun-edutech.github.io/blob/master/images/images%20metaverse/bounedutechss3.jpg?raw=true" alt="bounedutechmetaverse" width ="100%" height = "auto" /></p></td>
     </tr>
    </table>
 
