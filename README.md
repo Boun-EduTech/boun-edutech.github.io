@@ -1,99 +1,203 @@
----
-title: "About"
-permalink: "/about/"
-layout: page
----
+<img align="left" src="https://github.com/Boun-EduTech/boun-edutech.github.io/blob/main/images/Github%20banner.png?raw=true" alt="Alierenkayhan" width ="100%" height = "auto" /></p>
+    
+# BOUN EduTech website
 
-## Installation
+<div align="center">
+    
+![GitHub watchers](https://img.shields.io/github/watchers/Boun-EduTech/boun-edutech.github.io?style=social)   
+![GitHub forks](https://img.shields.io/github/forks/Boun-EduTech/boun-edutech.github.io?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/Boun-EduTech/boun-edutech.github.io?style=social)
+ 
+[![GitHub license](https://img.shields.io/github/license/Boun-EduTech/boun-edutech.github.io)](https://github.com/Boun-EduTech/boun-edutech.github.io/blob/main/LICENSE)    
+ 
+[![GitHub issues:](https://img.shields.io/github/issues/Boun-EduTech/boun-edutech.github.io)](https://img.shields.io/github/issues/Boun-EduTech/boun-edutech.github.io)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Boun-EduTech/boun-edutech.github.io)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Boun-EduTech/boun-edutech.github.io)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/Boun-EduTech/boun-edutech.github.io) 
+[![GitHub forks:](https://img.shields.io/github/forks/Boun-EduTech/boun-edutech.github.io)](https://img.shields.io/github/forks/Boun-EduTech/boun-edutech.github.io)
+[![GitHub stars:](https://img.shields.io/github/stars/Boun-EduTech/boun-edutech.github.io)](https://img.shields.io/github/stars/Boun-EduTech/boun-edutech.github.io)
+![GitHub search hit counter](https://img.shields.io/github/search/Boun-EduTech/boun-edutech.github.io/goto)
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Boun-EduTech/boun-edutech.github.io)
+![GitHub last commit](https://img.shields.io/github/last-commit/Boun-EduTech/boun-edutech.github.io)
+![Sourcegraph for Repo Reference Count](https://img.shields.io/sourcegraph/rrc/bounedutech.github.io)
+![GitHub repo size](https://img.shields.io/github/repo-size/Boun-EduTech/boun-edutech.github.io)
+![GitHub top language](https://img.shields.io/github/languages/top/Boun-EduTech/boun-edutech.github.io) 
 
-## Features
+![GitHub all releases](https://img.shields.io/github/downloads/Boun-EduTech/boun-edutech.github.io/total)
+ <a href="https://github.com/Boun-EduTech/boun-edutech.github.io/archive/refs/heads/main.zip">
+<img src="https://img.shields.io/badge/Download-Project-blue" /></a>
+<a href="https://bounedutech.github.io">
+![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Falierenkayhan.itch.io%2Fatlye)
+</a> 
+</div>
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+<div align="center">
 
-## Based on
+  <p align="center">
+    👨‍💻 BOUN EduTech website 👨‍💻
+    <br />
+    <a href="https://github.com/Boun-EduTech/boun-edutech.github.io"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/Boun-EduTech/boun-edutech.github.io/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Boun-EduTech/boun-edutech.github.io/issues">Request Feature</a>
+  </p>
+</div>
 
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
 
-## Installation (jekyll-remote-theme method)
 
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>📝 Table of Contents</summary>
+  <ol>
+    <li>
+      About The Project
+      <ul>
+        <li>Built With</li>
+        <li>Features</li>
+      </ul>
+    </li>
+    <li>Roadmap</li>
+    <li>
+      Getting Started
+      <ul>
+        <li>Prerequisites</li>
+        <li>Installation</li>
+      </ul>
+    </li>
+    <li>Metaverse</li>
+    <li>Usage</li>
+    <li>Screenshots</li>
+    <li>Contributing</li>
+    <li>Contributor/li>
+    <li>License</li>
+    <li>Contact</li>
+     <li>Resources</li>
+    <li>Acknowledgments</li>
+  </ol>
+</details>
+ 
+<!-- ABOUT THE PROJECT -->
+## 🌟 About The Project
 
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
+- This is BOUN EduTech website.
+- Web 3-0
+- Metaverse
 
-plugins:
-  - jekyll-remote-theme
-```
+### 👾  Built With
 
-Note: to enable icons you also need to copy over the `_data` folder.
+* <img align="left" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> 
+* <img align="left" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /> 
+* <img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+* <img align="left" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
 
-## Config
 
-Your `_config.yml` could for example look like this:
+### 🎯 Features
+* Web 3.0
+* Metaverse
 
-```yaml
-title: "Blog Title"
-author: "Blog Author"
-description: "My personal blog about ... something"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
 
-# Layout
+<!-- ROADMAP -->
+## 🧭Roadmap
 
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
+- [ ] Adding new Blogs and Projects
 
-# Menu
+See the [open issues](https://github.com/Boun-EduTech/boun-edutech.github.io/issues) for a full list of proposed features (and known issues).
 
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
 
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+<!-- GETTING STARTED -->
+## 🏁 Getting Started
 
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
+### Prerequisites
+  ```sh
+  .Unity version 2020
+  VS code
+  ```
 
-plugins:
- - jekyll-feed
+### ⚙️ Installation
 
-```
+1. To Get Started, Fork this repository to your GitHub account:
+2. Clone the repo from your account using:
+   ```sh
+   git clone https://github.com/Boun-EduTech/boun-edutech.github.io.git
+   ```
+3. Open in editor
 
-## MathJax
+<!-- Metaverse -->
+## Metaverse
+[![Available on itch.io](http://jessemillar.github.io/available-on-itchio-badge/badge-bw.png)](https://alierenkayhan.itch.io/boun-edutech-metaverse)
 
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
+<!-- USAGE EXAMPLES -->
+## 💡 Usage
 
-## License
+After cloning the project, you can open it in Visual Studio Code.
 
-[public domain](http://unlicense.org/)
+See the [open issues](https://github.com/Boun-EduTech/boun-edutech.github.io/issues) for a full list of proposed features (and known issues).
 
-## Screenshots
+<!-- Screenshots -->
+## 📷 Screenshots
+  1-Screenshots of Metaverse
+  <table> 
+    <tr>
+        <td>  <img align="left" src="https://github.com/Boun-EduTech/boun-edutech.github.io/blob/main/images/images%20metaverse/bounedutechss1.jpg?raw=true" alt="bounedutechmetaverse" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="https://github.com/Boun-EduTech/boun-edutech.github.io/blob/main/images/images%20metaverse/bounedutechss2.jpg?raw=true" alt="bounedutechmetaverse" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="https://github.com/Boun-EduTech/boun-edutech.github.io/blob/main/images/images%20metaverse/bounedutechss3.jpg?raw=true" alt="bounedutechmetaverse" width ="100%" height = "auto" /></p></td>
+    </tr>
+   </table>
 
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
 
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
+<!-- CONTRIBUTING -->
+## 🧐 Contributing
 
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
+Pull requests are **accepted**. For major changes, please open a thread to discuss what you want to change first.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch 
+3. Commit your Changes 
+4. Push to the Branch 
+5. Open a Pull Request
+
+
+<!-- LICENSE -->
+## 📝 License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information. This website and metaverse are developed by Ali Eren Kayhan. 
+
+<!-- Contributor -->
+## 🤩 Contributor
+<!-- readme: contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/Alierenkayhan">
+            <img src="https://avatars.githubusercontent.com/u/32596425?v=4" width="100;" alt="Alierenkayhan"/>
+            <br />
+            <sub><b>Ali Eren</b></sub>
+        </a>
+    </td></tr>
+</table>
+<!-- readme: contributors -end -->
+
+<!-- CONTACT -->
+## ✍️ Contact
+
+If you have any feedback, please contact me at ali_erenbatman@hotmail.com. Mostly I prefer linkedIn => https://www.linkedin.com/in/alierenkayhan/
+
+Project Link: [https://github.com/Boun-EduTech/boun-edutech.github.io](https://github.com/Boun-EduTech/boun-edutech.github.io)
+
+
+<!-- Resources -->
+## 🚀 Resources
+
+* https://cruip.com/demos/ellie/
+* https://github.com/alexandresanlim/Badges4-README.md-Profile
+
+<!-- ACKNOWLEDGMENTS -->
+## ✍️ Acknowledgments
+
+* [@Alierenkayhan](https://github.com/Alierenkayhan) = Metaverse and design, banner, website.
