@@ -4,10 +4,10 @@
 <div class="card">
   <img src="https://github.com/Alierenkayhan/Alierenkayhan.github.io/blob/master/img/bloggif.gif?raw=true" alt="Avatar" style="height:10%;width:100%; border-radius: 50px 50px 0 0;">
   <div class="container">
-    <p class="blogtext">
+    <div class="blogtext">
     {% include meta.html post=post preview=true %}
     {{ post.excerpt }}
-    </p>
+    </div>
     <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
     </div>
  </div>
