@@ -2,9 +2,9 @@
 {% for post in posts %}
   <article>
 <div class="card">
-  <img src="https://github.com/Alierenkayhan/Alierenkayhan.github.io/blob/master/img/bloggif.gif?raw=true" alt="Avatar" style="height:30%;width:100%; border-radius: 50px 50px 0 0;">
+  <img src="https://github.com/Alierenkayhan/Alierenkayhan.github.io/blob/master/img/bloggif.gif?raw=true" alt="Avatar" style="height:10%;width:100%; border-radius: 50px 50px 0 0;">
   <div class="container">
-    <p maxlength="50">
+    <p class="blogtext">
     {% include meta.html post=post preview=true %}
     {{ post.excerpt }}
     </p>
@@ -42,12 +42,15 @@
 .card:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
-
+  .blogtext{
+   overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 6;
+    -webkit-box-orient: vertical;
+  } 
+  
 .container {
   padding: 2px 16px;
-  overflow: hidden;
-text-overflow: ellipsis;
-display: -webkit-box;
--webkit-line-clamp: 6;
--webkit-box-orient: vertical;
 }
+</style>
