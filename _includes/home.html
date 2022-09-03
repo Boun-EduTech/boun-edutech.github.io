@@ -1,11 +1,73 @@
-{%- assign posts = paginator.posts | default: site.posts -%}
-{% for post in posts %}
-  <article>
-    {% include meta.html post=post preview=true %}
-    {{ post.excerpt }}
-    <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
-  </article>
-{% endfor %}
+{%- assign posts = paginator.posts | default: site.posts -%}   
+ 
+
+         
+ 
+     
+ 
+ 
+   <!-- container -->
+                        <div class="container-fluid" >
+        
+                            <!-- row -->
+                            <div class="row p-30-0">
+
+                     {% for post in posts %} 
+   <article>          
+                                <!-- col -->
+                                <div class="col-lg-4" > 
+      
+                                    <!-- blog post card -->
+                                    <div class="art-a art-blog-card" style="height:300px;width:306px;">
+                                        <!-- post cover -->
+                                        
+                                            <!-- img -->
+                                             <img src="img/bloggif.gif" alt="blog post" style="height:200px;width:100%;">
+                                      
+                                        <!-- post cover end -->
+                                        <!-- post description -->
+                                        <div class="art-post-description" style="height:100px;padding:10px;" >
+                                            <!-- title -->
+                                            <a href="/blog-post.html">
+                                              <p class="mb-15" >{% include meta.html post=post preview=true %}</p>
+                                            </a>
+ 
+                                        </div>
+                                        <!-- post description end -->
+                                    </div>
+                                    <!-- blog post card end -->
+
+                                </div>
+                                <!-- col end -->
+                              
+                                 </article>
+
+ {% endfor %}      
+    
+                            </div>
+                                        <!-- row end -->
+
+                        </div>
+                        <!-- container end -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
 
 {% if paginator.total_pages > 1 %}
   <footer>
