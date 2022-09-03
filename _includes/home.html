@@ -1,72 +1,31 @@
 {%- assign posts = paginator.posts | default: site.posts -%}   
- 
+<div class="container">
+  
+  {% for post in posts %} 
+  <article>  
+  <div class="card">
+    <div class="card__header">
+      <img src="https://github.com/Alierenkayhan/Alierenkayhan.github.io/blob/master/img/bloggif.gif?raw=true" alt="card__image" class="card__image" style="height:200px;width:100%;">
+    </div>
+    <div class="card__body">
+      <span class="tag tag-blue">Technology</span>
+      <p>{% include meta.html post=post preview=true %}</p>
+    </div>
+    <div class="card__footer">
+      <div class="user">
+        <img src="https://i.pravatar.cc/40?img=1" alt="user__image" class="user__image">
+        <div class="user__info">
+          <h5>Jane Doe</h5>
+          <small>2h ago</small>
+        </div>
+      </div>
+    </div>
+  </div>
+</article>
 
-         
- 
-     
+{% endfor %}      
  
  
-   <!-- container -->
-                        <div class="container-fluid" >
-        
-                            <!-- row -->
-                            <div class="row p-30-0">
-
-                     {% for post in posts %} 
-   <article>          
-                                <!-- col -->
-                                <div class="col-lg-4" > 
-      
-                                    <!-- blog post card -->
-                                    <div class="art-a art-blog-card" style="height:300px;width:306px;">
-                                        <!-- post cover -->
-                                        
-                                            <!-- img -->
-                                             <img src="https://github.com/Alierenkayhan/Alierenkayhan.github.io/blob/master/img/bloggif.gif?raw=true" alt="blog post" style="height:200px;width:100%;">
-                                      
-                                        <!-- post cover end -->
-                                        <!-- post description -->
-                                        <div class="art-post-description" style="height:100px;padding:10px;" >
-                                            <!-- title -->
-                                            <a href="/blog-post.html">
-                                              <p class="mb-15" >{% include meta.html post=post preview=true %}</p>
-                                            </a>
- 
-                                        </div>
-                                        <!-- post description end -->
-                                    </div>
-                                    <!-- blog post card end -->
-
-                                </div>
-                                <!-- col end -->
-                              
-                                 </article>
-
- {% endfor %}      
-    
-                            </div>
-                                        <!-- row end -->
-
-                        </div>
-                        <!-- container end -->
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 
 
 {% if paginator.total_pages > 1 %}
