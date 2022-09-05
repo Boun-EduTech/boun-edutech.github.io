@@ -125,7 +125,7 @@ See the [open issues](https://github.com/Boun-EduTech/boun-edutech.github.io/iss
 
 <!-- simulation -->
 ## Simulation
-[![Available on itch.io](http://jessemillar.github.io/available-on-itchio-badge/badge-bw.png)](https://alierenkayhan.itch.io/boun-edutech-metaverse)
+[![Available on itch.io](http://jessemillar.github.io/available-on-itchio-badge/badge-bw.png)](https://alierenkayhan.itch.io/boun-edutech-simulation)
 
 <!-- USAGE EXAMPLES -->
 ## 💡 Usage
@@ -136,12 +136,12 @@ See the [open issues](https://github.com/Boun-EduTech/boun-edutech.github.io/iss
 
 <!-- Screenshots -->
 ## 📷 Screenshots
-  1-Screenshots of Metaverse
+  1-Screenshots of Simulation 
   <table> 
     <tr>
-        <td>  <img align="left" src="https://github.com/Boun-EduTech/boun-edutech.github.io/blob/master/images/images%20metaverse/bounedutechss1.jpg?raw=true" alt="bounedutechsimulation" width ="100%" height = "auto" /></p></td>
-        <td>  <img align="left" src="https://github.com/Boun-EduTech/boun-edutech.github.io/blob/master/images/images%20metaverse/bounedutechss2.jpg?raw=true" alt="bounedutechsimulation" width ="100%" height = "auto" /></p></td>
-        <td>  <img align="left" src="https://github.com/Boun-EduTech/boun-edutech.github.io/blob/master/images/images%20metaverse/bounedutechss3.jpg?raw=true" alt="bounedutechsimulation" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="https://github.com/Boun-EduTech/boun-edutech.github.io/blob/master/images/images%20simulation/bounedutechss1.jpg?raw=true" alt="bounedutechsimulation" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="https://github.com/Boun-EduTech/boun-edutech.github.io/blob/master/images/images%20simulation/bounedutechss2.jpg?raw=true" alt="bounedutechsimulation" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="https://github.com/Boun-EduTech/boun-edutech.github.io/blob/master/images/images%20simulation/bounedutechss3.jpg?raw=true" alt="bounedutechsimulation" width ="100%" height = "auto" /></p></td>
     </tr>
    </table>
 
