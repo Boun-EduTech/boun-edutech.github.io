@@ -94,8 +94,7 @@
 
 
 ### 🎯 Features
-* Web 3.0
-* Metaverse
+* Simulation
 
 
 <!-- ROADMAP -->
