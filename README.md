@@ -67,7 +67,7 @@
         <li>Installation</li>
       </ul>
     </li>
-    <li>Metaverse</li>
+    <li>Simulation</li>
     <li>Usage</li>
     <li>Screenshots</li>
     <li>Contributing</li>
@@ -83,8 +83,7 @@
 ## 🌟 About The Project
 
 - This is BOUN EduTech website.
-- Web 3-0
-- Metaverse
+- Simulation
 
 ### 👾  Built With
 
