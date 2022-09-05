@@ -123,8 +123,8 @@ See the [open issues](https://github.com/Boun-EduTech/boun-edutech.github.io/iss
    ```
 3. Open in editor
 
-<!-- Metaverse -->
-## Metaverse
+<!-- simulation -->
+## Simulation
 [![Available on itch.io](http://jessemillar.github.io/available-on-itchio-badge/badge-bw.png)](https://alierenkayhan.itch.io/boun-edutech-metaverse)
 
 <!-- USAGE EXAMPLES -->
@@ -139,9 +139,9 @@ See the [open issues](https://github.com/Boun-EduTech/boun-edutech.github.io/iss
   1-Screenshots of Metaverse
   <table> 
     <tr>
-        <td>  <img align="left" src="https://github.com/Boun-EduTech/boun-edutech.github.io/blob/master/images/images%20metaverse/bounedutechss1.jpg?raw=true" alt="bounedutechmetaverse" width ="100%" height = "auto" /></p></td>
-        <td>  <img align="left" src="https://github.com/Boun-EduTech/boun-edutech.github.io/blob/master/images/images%20metaverse/bounedutechss2.jpg?raw=true" alt="bounedutechmetaverse" width ="100%" height = "auto" /></p></td>
-        <td>  <img align="left" src="https://github.com/Boun-EduTech/boun-edutech.github.io/blob/master/images/images%20metaverse/bounedutechss3.jpg?raw=true" alt="bounedutechmetaverse" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="https://github.com/Boun-EduTech/boun-edutech.github.io/blob/master/images/images%20metaverse/bounedutechss1.jpg?raw=true" alt="bounedutechsimulation" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="https://github.com/Boun-EduTech/boun-edutech.github.io/blob/master/images/images%20metaverse/bounedutechss2.jpg?raw=true" alt="bounedutechsimulation" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="https://github.com/Boun-EduTech/boun-edutech.github.io/blob/master/images/images%20metaverse/bounedutechss3.jpg?raw=true" alt="bounedutechsimulation" width ="100%" height = "auto" /></p></td>
     </tr>
    </table>
 
@@ -164,7 +164,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## 📝 License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information. This website and metaverse are developed by Ali Eren Kayhan. 
+Distributed under the MIT License. See `LICENSE.txt` for more information. This website and simulation are developed by Ali Eren Kayhan. 
 
 <!-- Contributor -->
 ## 🤩 Contributor
@@ -198,4 +198,4 @@ Project Link: [https://github.com/Boun-EduTech/boun-edutech.github.io](https://g
 <!-- ACKNOWLEDGMENTS -->
 ## ✍️ Acknowledgments
 
-* [@Alierenkayhan](https://github.com/Alierenkayhan) = Metaverse and design, banner, website.
+* [@Alierenkayhan](https://github.com/Alierenkayhan) = Simulation and design, banner, website.
