@@ -71,7 +71,7 @@
     <li>Usage</li>
     <li>Screenshots</li>
     <li>Contributing</li>
-    <li>Contributor/li>
+    <li>Contributor</li>
     <li>License</li>
     <li>Contact</li>
      <li>Resources</li>
